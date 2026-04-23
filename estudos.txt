@@ -1,0 +1,5 @@
+git é um progama de versionamento que te permite trabalhar em um projeto simultaneamente com 
+outras pessoas ou manter uma cópia local, voce tambem pode acessaar histórico de alterações 
+e acessar as multiplas versões mantendo um backup dp projeto, seus conceitos básicos incluem
+commit que se trata de uma espécie de comentario, push que é enviar um arquivo para um servidor
+remoto, git branch que é basicamente peqienos blocos para organizar o projeto.
